@@ -303,8 +303,8 @@ Phase 4  (Ongoing)      Monitor feature distribution drift; retrain when drift d
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/tamburawa-wtp-water-quality.git
-cd tamburawa-wtp-water-quality
+git clone https://github.com/SyusufWaliyyi/Tamburawa-Water-Quality-Classification.git
+cd Tamburawa-Water-Quality-Classification
 ```
 
 ### 2. Install Dependencies
