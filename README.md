@@ -395,9 +395,9 @@ If you use this work in academic research or technical reports, please cite as:
 ```bibtex
 @misc{tamburawa_wtp_2024,
   title   = {Tamburawa WTP Water Quality Classification: End-to-End ML Pipeline},
-  author  = {Your Name},
+  author  = {Shamsuddeen Yusuf},
   year    = {2024},
-  url     = {https://github.com/your-username/tamburawa-wtp-water-quality},
+  url     = {https://github.com/SyusufWaliyyi/Tamburawa-Water-Quality-Classification},
   note    = {Weekly physicochemical monitoring data, 2010--2020, Kano State, Nigeria}
 }
 ```
