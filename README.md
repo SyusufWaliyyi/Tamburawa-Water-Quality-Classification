@@ -401,13 +401,6 @@ If you use this work in academic research or technical reports, please cite as:
   note    = {Weekly physicochemical monitoring data, 2010--2020, Kano State, Nigeria}
 }
 ```
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for full terms.
-
 ---
 
 ## 🙏 Acknowledgements
