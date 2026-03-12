@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/pandas-2.0%2B-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-1.24%2B-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge" alt="License"/>
 </p>
 
 <p align="center">
@@ -62,7 +61,6 @@ tamburawa-wtp-water-quality/
 ├── 📊 Tamburawa_WTP_Kano_Weekly_Dataset.xlsx        ← Raw dataset (place in root)
 ├── 📄 README.md                                      ← This file
 ├── 📄 requirements.txt                               ← Python dependencies
-├── 📄 LICENSE                                        ← MIT License
 │
 └── 📁 figures/                                       ← Auto-generated on notebook run
     ├── fig_01_class_distribution.png
