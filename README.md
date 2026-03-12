@@ -31,7 +31,6 @@
 - [Methodology Notes](#-methodology-notes)
 - [Contributing](#-contributing)
 - [Citation](#-citation)
-- [License](#-license)
 - [Acknowledgements](#-acknowledgements)
 
 ---
